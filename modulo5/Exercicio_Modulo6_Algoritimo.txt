@@ -1,0 +1,20 @@
+Inicio
+	Abrir os olhos
+	Colocar as pernas para baixo da cama
+	Bocejar
+	Levantar
+	Caminhar para o banheiro
+	Parar em frente ao espelho
+	Pegar a escova de dentes
+	Pegar a pasta de dentes
+	Passar a pasta de dentes na escova
+	Fechar a pasta de dentes
+	colocar a escova na boca
+	realizar movimentos circulares nos dentes
+	Se dentes estiverem sujos {
+		continuar escovando
+		} se não{
+		Lavar a escova
+		guardar a escova}
+	Jogar agua no rosto
+Fim

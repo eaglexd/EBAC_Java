@@ -9,7 +9,7 @@ public class exercicio {
 		
 		System.out.println("Por Favor, Digite seu Nome: ");
 		String name = entrada.nextLine();
-		System.out.println("Olá "+name+" Bem Vindo!!!");
+		System.out.println("Olï¿½ "+name+" Bem Vindo!!!!");
 		
 		entrada.close();
 	}
