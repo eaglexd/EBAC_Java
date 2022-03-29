@@ -1,5 +1,9 @@
 package modulo7;
-//Author: Adler Marques
+/**
+ * 
+ * @author Waldler
+ *
+ */
 public class ItemVenda {
 
 }

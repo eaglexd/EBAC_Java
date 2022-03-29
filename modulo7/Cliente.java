@@ -1,13 +1,22 @@
 package modulo7;
-//Author: Adler Marques
+/**
+ * 
+ * @author Adler Felippe Marques
+ *
+ */
 public class Cliente {
-	
-	//DECLARANDO VARIAVEIS
+
+	/**
+	 * Declaração das variáveis
+	 */
 	private int codigo;
 	private String nome;
 	private String endereco;
 	
-	// CRIAÇÃO DOS GETTERS AND SETTERS
+	/**
+	 * Criação dos Getters and Setters
+	 * @return
+	 */
 	public int getCodigo() {
 		return codigo;
 	}
@@ -27,14 +36,19 @@ public class Cliente {
 		this.endereco = endereco;
 	}
 	
-	//CADASTRAR ENDEREÇO
+	/**
+	 * Metodo para cadastrar o endereço do cliente
+	 * @param endereco
+	 */
 	
 	public void cadastrarEndereco(String endereco) {
 		setEndereco(endereco);
 				
 	}
 	
-	//IMPRIMIR ENDEREÇO
+	/**
+	 * Método apenas para imprimir o endereço
+	 */
 	
 	public void imprimirEndereco() {
 		System.out.println(this.endereco);
